@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">R☆AI☆NNER</string>
+    <string name="data3">ミッドフット走法:</string>
+    <string name="data1">ヒールストライク走法:</string>
+    <string name="data2">フォアフット走法:</string>
+    <string name="recoding">記録する</string>
+    <string name="product_name">RAINNER</string>
+    <string name="recodingnow">記録中</string>
+    <string name="walk">歩数</string>
+</resources>
